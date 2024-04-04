@@ -3,7 +3,7 @@ In this project I went through the html and replaced the divs with html semantic
 
 In addition to adding fitting semantic tags I regrouped the html so that it read more chronologically and read simpler.
 
-I then added alt attributes and made sure to put everything on the page in sequential order.
+I then added alt attributes making it easier to understand and made sure to put everything on the page in sequential order.
 
 Some of the Css code was redundant so in an effort to clean it up I combined code that made more sense together. 
 
